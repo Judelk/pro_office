@@ -1,13 +1,9 @@
-# Batch conversion of word files to pdf files
+### Batch convert word files to pdf files using python
 
-## first you need to install pywin32 package
+first you need to install pywin32 package as follows:
 
 
 ```
 pip install pywin32
-@Override
-protected void onDestroy() {
-    EventBus.getDefault().unregister(this);
-    super.onDestroy();
-}
+
 ``` 
